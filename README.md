@@ -1,4 +1,4 @@
-<h1 align="center">Z1ruz</h1>
+<h1 align="center">☘ Z1ruz</h1>
 
 ###
 
@@ -14,19 +14,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
 </div>
-
-###
-
-<h1 align="center"> </h1>
-
-###
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</p>
-
-###
-
-<h1 align="center"> </h1>
 
 ###
