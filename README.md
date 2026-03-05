@@ -22,12 +22,6 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z1ruz-code&theme=dark">
-</p>
-
-###
-
-<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
 
