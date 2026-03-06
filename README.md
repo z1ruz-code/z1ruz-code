@@ -1,4 +1,9 @@
-<h1 align="center">🛠 Z1ruz</h1>
+<h1 align="center">Z1ruz</h1>
+
+###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=I%27m+learning+Python;Soon+I%27ll+learn+C+and+C%2B%2B">
+</p>
 
 ###
 
