@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Z1ruz</h1>
+# **Hello, [I'm Z1ruz](https://z1ruz-code.github.io/)**
 
 ###
 <p align="center">
