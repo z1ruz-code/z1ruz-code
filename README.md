@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Hello, I'm [Z1ruz](https://z1ruz-code.github.io/)**
+# 🎣 **Hello, I'm [Z1ruz](https://z1ruz-code.github.io/)**
 
 </div>
 
