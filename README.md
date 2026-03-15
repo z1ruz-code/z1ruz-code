@@ -25,8 +25,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src=/images/image1.jpg>
-</div>
